@@ -1,13 +1,3 @@
-# How to Read a Paper
-https://web.stanford.edu/class/cs244/papers/HowtoReadPaper.pdf
-## TL;DR
-## five Cs
-1. Category
-1. Context
-1. Correctness
-1. Contributions
-1. Clarity
-
 # Overview of Adversarial Attacks and Defences
 
 - Adversarial Attacks and Defences: A Survey
@@ -106,10 +96,10 @@ We can formalize the adversarial samples as the following optimization problem:
 
 
 # 「敵対的摂動 (Adversarial Perturbation) に対するモデルの頑健性の測り方」
-Sansan's blog 
+Sansan's blog
 * https://buildersbox.corp-sansan.com/entry/2019/06/28/110000
 * https://buildersbox.corp-sansan.com/entry/2019/07/29/110000#f-1652c336
-* 
+
 ## TL;DR
 学習されたDNNがAdversarial Perturbation に対してどのくらい頑健であるかを測定する。
 ## 測定アプローチ
@@ -163,15 +153,3 @@ Manifold regularization を使った adversarial defence. adversarial example �
 
 ## Related works
 **Project Gradient Descent (PGD) defence** - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. Towards deep learning models resistant to adversarial attacks, 2017
-
----
-# Template
-date or conference | link
-
-## TL;DR
-## Contributions
-## Keypoints
-## How evaluated?
-## Discussion
-## Related works
-
