@@ -5,3 +5,6 @@
 ## CVPR 2020 summary
 * paper の分類 https://ai-scholar.tech/articles/treatise/cvpr2020-part2
 * paper の解説 http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/listall/
+
+## Scene Text Detection Resources
+https://github.com/HCIILAB/Scene-Text-Detection

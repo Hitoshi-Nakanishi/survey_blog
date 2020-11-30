@@ -10,6 +10,8 @@ https://www2.deloitte.com/jp/ja/pages/deloitte-analytics/articles/defending-agai
 - Adversarial Examples in Modern Machine Learning: A Review
 https://arxiv.org/pdf/1911.05268.pdf
 
+- The NeurIPS '18 Competition pp 129-153 Adversarial Vision Challenge | Springer Link
+(345 page PDF)
 
 ### The Attack Surface
 1. Evasion Attack: adjusting malicious samples during testing phase
